@@ -1,0 +1,25 @@
+body {
+    background: greenyellow;
+    margin: 0px 70px;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+h2 {
+    font-family: fantasy;
+}
+
+p, li {
+    font-size: 18px;
+}
+
+footer {
+    margin-bottom: 40px;
+}
+
+.Jogos {
+    width: 300px;
+    margin-bottom: 10px;
+}
